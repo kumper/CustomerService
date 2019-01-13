@@ -3,6 +3,7 @@ package com.kp.cloud.cs.service.impl;
 import com.kp.cloud.cs.model.Customer;
 import com.kp.cloud.cs.service.CustomerService;
 import org.springframework.stereotype.Service;
+import org.springframework.beans.factory.annotation.Value;
 
 import java.util.ArrayList;
 import java.util.Arrays;
